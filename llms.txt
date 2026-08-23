@@ -1,2 +1,25 @@
 # Ayr Duct Cleaning
-HVAC services in Ontario.
+
+> Ayr Duct Cleaning is a local HVAC company serving Ayr, Waterloo, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 632-8174  |  Email: contact@ayrductcleaning.ca  |  Website: https://ayrductcleaning.ca
+
+## Key pages
+
+- [Home](https://ayrductcleaning.ca/): Ayr Duct Cleaning homepage with service overview and FAQ
+- [About](https://ayrductcleaning.ca/about/): About the company and service area
+- [Contact](https://ayrductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://ayrductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Ayr, Ontario
+- [Dryer Vent Cleaning](https://ayrductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Ayr, Ontario
+- [Furnace & AC Cleaning](https://ayrductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Ayr, Ontario
+- [HRV & Ventilation Cleaning](https://ayrductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Ayr, Ontario
+- [Duct Sanitizing & Deodorizing](https://ayrductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Ayr, Ontario
+- [Duct Sealing & Repair](https://ayrductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Ayr, Ontario
+- [Commercial Duct Cleaning](https://ayrductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Ayr, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ayr are answered on the homepage.
